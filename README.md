@@ -4,7 +4,7 @@
 
 ## PRABUDDHA OFFICIAL BOT MD   Version 0.0.1
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+PRABUDDHA+BOT+MD.;POWERED+BY:+PRABUDDHA+OFFICIAL+TEAM;CREATED+BY:+MR PRABUDDHA PAHANSARA;MR:+PRABUDDHA OFC;💕හායි මැනික♡+;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+PRABUDDHA+BOT+MD.;POWERED+BY:+PRABUDDHA+OFFICIAL+TEAM;CREATED+BY:+MR PRABUDDHA+PAHANSARA;MR:+PRABUDDHA+OFC;💕හායි+මැනික♡+;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
 LATEST VERSION 0.0.2 Plus (2022-07-05 [Get videos 360p, 480p, 720p])
 
