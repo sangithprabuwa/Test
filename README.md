@@ -6,14 +6,7 @@
   
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+PRABUDDHA+BOT+MD.;POWERED+BY:+PRABUDDHA+OFFICIAL+TEAM;CREATED+BY:+MR+PRABUDDHA+PAHANSARA;MR:+PRABUDDHA+OFC;💕Sewwandi♡+Prabuddha;)](https://git.io/typing-svg)
 
-THIS IS MT FIRST EDIT 
-
-https://i.imgur.com/SdZFgwU.jpeg
-<h1> PRABUDDHA OFC WHATSAPP BOT <h1/>
- <p align="center"> MULTI DEVICE WABOT p/>
-
-
-
+THIS IS MY FIRST EDIT 
 
 
 > [SUPPORT GROUP](https://chat.whatsapp.com/)
