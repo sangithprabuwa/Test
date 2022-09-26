@@ -8,7 +8,7 @@
 
 THIS IS MY FIRST EDIT 
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](http://replit.com/@Jayarathne-technical/Nila-Bot)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 </div>
