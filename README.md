@@ -27,7 +27,7 @@ THIS IS MY FIRST EDIT
 
 
 ## Thanks To
-* [`DARKALPHA`](https://github.com/darkaplhaxteam/)
+* [`PRABUDDHA-OFC`](https://github.com/PRABUDDHA-OFFICIAL/)
 * [`Alien-Alfa`](https://github.com/Alien-Alfa)
 * [`DGXeon`](https://github.com/DGXeon)
 * [`JAYARATNE`](https://github.com/thiricana)
